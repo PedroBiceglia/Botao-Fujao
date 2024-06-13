@@ -1,2 +1,2 @@
-# Botao-Fujao
- Criei esse mini projeto para descontrair um pouco e aprender mais sobre JavaScript
+# Pedido de Aumento com o Botão Fujão
+ Criei para descontrair um pouco e aprender mais sobre JavaScript
